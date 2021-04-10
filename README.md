@@ -1,4 +1,4 @@
-this line is modified by branch-A
+this line is modified by branch-A, but also by branch-B
 
 # IVT Spaceship
 
