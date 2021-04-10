@@ -22,3 +22,6 @@ target/
 *.project
 .settings/
 .vscode/
+
+#IntelliJ
+*.idea
